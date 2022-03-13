@@ -1,0 +1,15 @@
+body {
+ background-color: rgb(226, 190, 255);
+}
+
+.login_div{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+button{
+    background-color: rgb(131, 65, 182);
+    color: white;
+}
